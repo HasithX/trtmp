@@ -4,7 +4,7 @@ A bot for streaming in Telegram live streams.
 
 ## Get Started
 
-### Use a Cloud Platform
+### Heroku
 
 [![Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/callsmusic/trtmp)
 
